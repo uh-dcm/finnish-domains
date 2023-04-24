@@ -101,6 +101,10 @@ We have classified most popular domains to following categories:
 Yes. However, remember that it is already fairly old and the domains were found on discussions in a spesific societal issue.
 So this is not a representative classification of all domains.
 
+For inspiration, see following works where this categorisation has been used:
+
+* [Nelimarkka, M., Laaksonen, S.-M., & Semaan, B. (2018). Social Media Is Polarized, Social Media Is Polarized. Proceedings of the 2018 on Designing Interactive Systems Conference 2018, 957–970](https://doi.org/10.1145/3196709.3196764)
+
 # Can I build and extend on this classification.
 
 Yes. We are happy to accept pull requests to expand, update or change categories using the above-formulated classess.
